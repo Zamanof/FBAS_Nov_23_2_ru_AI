@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "API.Controllers.AIController",
+    "Method": "Predict",
+    "RelativePath": "api/AI/predict",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "predict",
+        "Type": "API.Dtos.PredictIn",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
